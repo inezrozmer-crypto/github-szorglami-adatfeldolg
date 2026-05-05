@@ -1,0 +1,7 @@
+Git fogalmak amiket eddig tanultam:
+
+  - repository: a projekt mappa, amit a git követ
+  - commit: egy mentett változtatás-csomag, mintha "fotót" csinálnál a kódról
+  - push: feltöltöd a változásokat GitHubra
+  - pull: letöltöd mások változásait GitHubról
+  - collaborator: olyan felhasználó, akinek megengeded, hogy ő is módosítson
